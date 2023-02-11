@@ -1,0 +1,6 @@
+Input has to be the text "It's not denial. I'm just selective about the reality I accept."
+Quote from Calvin and Hobbes
+
+Six numbers must be the input separated by spaces and the first two numbers are 0 and 1 and the 
+proceeding numbers and the sum of the previous two numbers (fibonacci sum)
+
